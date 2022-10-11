@@ -7,6 +7,8 @@
 
 - 📫 How to reach me **winston.de.moura@gmail.com**
 
+- 📄 Know about my experiences [Learned english as a kid. Lived in Canada for two years and in the US for another two. I've been working with RPA and Data Analitycs](Learned english as a kid. Lived in Canada for two years and in the US for another two. I've been working with RPA and Data Analitycs)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
