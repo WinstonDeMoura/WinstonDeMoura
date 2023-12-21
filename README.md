@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Winston de Moura</h1>
 <h3 align="center">An enthusiastic programmer from Brazil</h3>
 
-- 🔭 I’m currently working on [SeiBot](https://github.com/WinstonDeMoura/SeiBot_1.5---Atual)
-
-- 🌱 I’m currently learning **PyautoGui, Pandas**
+- 🌱 I’m currently learning **Streamlit**
 
 - 📫 How to reach me **winston.de.moura@gmail.com**
 
