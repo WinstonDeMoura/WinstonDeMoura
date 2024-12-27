@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Winston de Moura</h1>
-<h3 align="center">An enthusiastic programmer from Brazil</h3>
+<h3 align="center">A Brazilian Dev</h3>
 
-- 🌱 I’m currently learning **Streamlit**
+- 🌱 I’m currently learning **LANGCHAIN**
 
 - 📫 How to reach me **winston.de.moura@gmail.com**
 
