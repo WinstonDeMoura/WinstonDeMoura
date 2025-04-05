@@ -1,13 +1,14 @@
 <h1 align="center">Hi 👋, I'm Winston de Moura</h1>
-<h3 align="center">A Brazilian Dev</h3>
+<h3 align="center">Python Developer and Data Engineer</h3>
 
 - 🌱 I’m currently learning **LANGCHAIN**
 
 - 📫 How to reach me **winston.de.moura@gmail.com**
 
-- 📄 Know about my experiences: Learned english as a kid. Lived in Canada for two years and in the US for another two. I've been working with RPA and Data Analitycs
+- 📄 Know about my experiences: Learned english as a kid. Lived in Canada for two years and in the US for another two. I've been working with Django, FastAPI, DataBricks, Azure Data Factory, Airflow.
 
 <h3 align="left">Connect with me:</h3>
+https://www.linkedin.com/in/winstondemoura/
 <p align="left">
 </p>
 
